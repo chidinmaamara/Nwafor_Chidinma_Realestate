@@ -87,9 +87,17 @@ nav a{
 
 }
 .headerbottom a{
-	font-size: larger;
+	font-size: 2rem;
 	color: black;
 	text-decoration: none;
 	display: flex;
 	align-items: center;
+}
+.form{
+	display: grid;
+	place-items: center;
+	margin-top: 50px;
+}
+.form span{
+	color: red;
 }
